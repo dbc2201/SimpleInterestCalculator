@@ -1,4 +1,4 @@
-# Measurements of a Circle
+# Simple Interest Calculator
 
 ## Java Programming Course
 
