@@ -1,4 +1,4 @@
-# Measurements of a Circle
+# Simple Interest Calculator
 
 ## Java Programming Course
 
@@ -6,7 +6,7 @@
 
 **Course 1**: Problem-Solving and Computational Thinking in Java
 
-**Sprint**: Write a simple `Java` program to calculate the simple interest.
+**Sprint**: Write a simple `Java` program to calculate the simple interest on a loan.
 
 ---
 
